@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/game-platforms.iml" filepath="$PROJECT_DIR$/game-platforms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackjack-game/backend/backend.iml" filepath="$PROJECT_DIR$/blackjack-game/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackjack-game/blackjack-game.iml" filepath="$PROJECT_DIR$/blackjack-game/blackjack-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackjack-game/frontend/frontend.iml" filepath="$PROJECT_DIR$/blackjack-game/frontend/frontend.iml" />
     </modules>
   </component>
 </project>

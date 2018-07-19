@@ -1,2 +1,0 @@
-# game-platforms 
-blackjack-game
